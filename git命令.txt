@@ -1,3 +1,5 @@
-1¡¢git add Ìí¼ÓÎÄ¼ş
-2¡¢git commit -m "Ò»µã×¢ÊÍ" Ìá½»±¾µØÎÄ¼şµ½²Ö¿â
-3¡¢git push origin master Ìá½»µ½Ô¶³Ì²Ö¿â
+1ã€git add æ·»åŠ æ–‡ä»¶
+2ã€git commit -m "ä¸€ç‚¹æ³¨é‡Š" æäº¤æœ¬åœ°æ–‡ä»¶åˆ°ä»“åº“
+3ã€git push origin master æäº¤åˆ°è¿œç¨‹ä»“åº“
+4ã€è§£å†³fatal: Not a git repository (or any of the parent directories): .git
+ä½¿ç”¨git init
